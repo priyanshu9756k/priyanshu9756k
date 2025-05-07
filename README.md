@@ -73,7 +73,7 @@
     <p>Send your registration details to our WhatsApp or fill out the upcoming form. We'll get you started immediately!</p>
   </div>  <div class="section" id="contact">
     <h2>Contact Us</h2>
-    <p>Email: support@upinetwork.com<br>Phone: +91-XXXXXXXXXX</p>
+    <p>Email: pkanchiye@gmail.com<br>Phone: +91-9756304616</p>
   </div>  <footer>
     <p>&copy; 2025 UPI Network Marketing. All rights reserved.</p>
   </footer>
